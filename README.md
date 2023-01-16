@@ -1,24 +1,32 @@
-# Hackathon Project Template
-
 ## Project Name
 
+Uchaguzi reporter
+
 ### Team name
+Uchaguzi reporters
 
 #### Hackathon Theme
 
-##### Team Members
+Good governance
 
-- Teammate 1, role
-- Teammate 2, role
-- Teammate 3, role
+##### Team Members
+Edwin Wakibari - Frontend developer - Team lead
+Frankline Mong’are - Full-stack & blockchain developer - Vice-team lead
+Ian Kibandi - Backend developer
+Rachael Chege - Product designer
+Adams Echwa- Backend developer 
+
   
 #### Project Description
 
-Provide a clear statement of the challenges/issues/problems/gaps your project engages as well as a brief, high-level description of how your project engages the areas you've identified. What is the value of your approach? Who are the intended users?
+By going through Ushahidi's application process and talking to Ushahidi's mentors, we  have identified the following main problems; lack of proper data structuring, data verification, data translation and incentivization of whistleblowers. 
+
 
 #### Summary
 
-Describe the basic functionality of your project. What are the features you were able to implement? What features would you like to implement?
+We intend to advance the application by building our solution across the Good Governance domain. We aim to incorporate the DeFi theme in Celo Blockchain with connection to Ushahidi's mission of building digital tools and running programs that give marginalized groups a voice.
+We intend to improve the application in the following areas; Product design (look and feel) using Figma and other necessary design tools, technology leveraging on Web3 that is, building on top of the Celo Blockchain with the aim to improve on transparency, integrity and scalability with integration of Artificial Intelligence.
+We are looking forward to implementing an impactful solution with the inspiration of giving the marginalized communities a voice.
 
 #### URLs
 
