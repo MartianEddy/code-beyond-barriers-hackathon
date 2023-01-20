@@ -12,9 +12,8 @@ Good governance
 ##### Team Members
 Edwin Wakibari - Frontend developer - Team lead
 Frankline Mong’are - Full-stack & blockchain developer - Vice-team lead
-Ian Kibandi - Backend developer
+Ian Kibandi - Backend developer 
 Rachael Chege - Product designer
-Adams Echwa- Backend developer 
 
   
 #### Project Description
