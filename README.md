@@ -32,13 +32,24 @@ We are looking forward to implementing an impactful solution with the inspiratio
 
 List any URLs relevant to demonstrating your prototype
 
+https://www.figma.com/files/team/1197233886844562844
+
 #### Presentation
 
 List any links to your presentation or any related visuals you want to share.
 
+https://www.figma.com/files/team/1197233886844562844
+
 #### Next Steps
 
 What do you need to do next to turn this prototype into a working solution?
+
+Programming languages -
+IDEs
+APIs
+Internet
+Research
+
 
 #### License
 
