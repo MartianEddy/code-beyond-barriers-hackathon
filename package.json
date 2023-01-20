@@ -1,0 +1,19 @@
+{
+  "name": "code-beyond-barriers-hackathon",
+  "version": "0.0.1",
+  "description": "This isa blockchain project built on celo blockchain and leveraging Ushahidi APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "\t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartianEddy/code-beyond-barriers-hackathon.git"
+  },
+  "author": "Edwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MartianEddy/code-beyond-barriers-hackathon/issues"
+  },
+  "homepage": "https://github.com/MartianEddy/code-beyond-barriers-hackathon#readme"
+}
